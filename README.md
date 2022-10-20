@@ -4,7 +4,7 @@ Skill / Job Recommender Application
 
 TEAM MEMBERS
 
-MEMBER(1) LEAD  : S.SELVIN
+TEAM LEAD  : S.SELVIN
 
 MEMBER(2)  : M.NARKUNAN
 
