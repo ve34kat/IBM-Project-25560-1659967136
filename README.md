@@ -1,13 +1,13 @@
 # IBM-Project-25560-1659967136
-Skill / Job Recommender Application
 
+Skill / Job Recommender Application
 
 TEAM MEMBERS
 
 TEAM LEAD  : S.SELVIN
 
-MEMBER(2)  : M.NARKUNAN
+MEMBER(1)  : M.NARKUNAN
 
-MEMBER(3)  : K.VENKATESAN
+MEMBER(2)  : K.VENKATESAN
 
-MEMBER(4)  : G.VISWANATH
+MEMBER(3)  : G.VISWANATH
